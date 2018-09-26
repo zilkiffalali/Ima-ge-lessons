@@ -1,2 +1,4 @@
 # Ima-ge-lessons
-dsd
+# Online resources
+    -http://webresizer.com/
+    -http://resizeimage.net/
